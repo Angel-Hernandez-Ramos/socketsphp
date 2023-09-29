@@ -1,0 +1,17 @@
+{
+    "name": "sistemas/sockets",
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angel Hdez",
+            "email": "angel.hernandezra@alumno.buap.mx"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
